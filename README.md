@@ -74,4 +74,4 @@ For full legal terms, please review **[CLA.md](CLA.md)**.
 
 ## Copyright
 
-Copyright © 2002–2025 Gala Lab Corp. All rights reserved.
+Copyright © 2002–2026 Gala Lab Corp. All rights reserved.

@@ -154,7 +154,7 @@ TEXTCLIENT_PARTYREMOVE,%s has left the party.,Si %s ay umalis sa partido.
 TEXTCLIENT_PARTYEXIT,You have left the party.,Ikaw ay umalis sa partido.
 TEXTCLIENT_PARTYDESTROY,Party has been disbanded.,Ang partido ay nabuwag.
 TEXTCLIENT_LODELIGHT,You have chosen the Lodelight as your re-spawn point.,Napili mo ang Lodelight bilang iyong re-spawn point.
-TEXTCLIENT_PARTY_ISNOTMASTER,Only the Party Leader is able to transfer the Leader Status to another member of the party.,Ang Pinuno ng Partido lang ang pwedeng maglipat ng Leader Status sa ibang miyembro ng partido 
+TEXTCLIENT_PARTY_ISNOTMASTER,Only the Party Leader is able to transfer the Leader Status to another member of the party.,Ang Pinuno ng Partido lang ang pwedeng maglipat ng Leader Status sa ibang miyembro ng partido
 TEXTCLIENT_PARTY_MASTERAWAY,You cannot pass party leadership to an offline player.,Hindi mo pwedeng ipasa ang pamumuno ng partido sa offline na manlalaro.
 TEXTCLIENT_PARTY_ALREADYMASTER,You are already the Party Leader.,Ikaw na ang Pinuno ng Partido.
 TEXTCLIENT_PARTY_LEADERNOCHANGEPK,Unable to change the party leader during a party duel.,Hindi magawang ibahin ang pinuno ng partido habang nasa duelo ng partido.
@@ -170,7 +170,7 @@ TEXTCLIENT_PARTYSKILL_REQLEVEL,Your party does not have the required level.,Ang 
 TEXTCLIENT_PARTYSKILL_POINTS,Cannot use skill. Insufficient party experience.,Hindi magamit ang skill. Hindi sapat ang party experience.
 TEXTCLIENT_PARTYSKILL_NOTTIME,You are still using the %s party skill. Try again later.,Ginagamit mo pa ang %s party skill. Subukan ulit mamaya.
 TEXTCLIENT_PARTYSKILL_USE,The party skill %s has been used.,Ang party skill na %s ay ginamit.
-TEXTCLIENT_PARTYSKILL_STOP,The effect of %s is about to end.,Ang epekto ng %s ay tapos na.
+TEXTCLIENT_PARTYSKILL_STOP,The effect of %s is about to end.,Malapit nang mawala ang epekto ng %s.
 TEXTCLIENT_ACR_FAME01,Rogue,Rogue
 TEXTCLIENT_ACR_FAME02,Outlaw,Outlaw
 TEXTCLIENT_ACR_FAME03,Vigilante,Vigilante

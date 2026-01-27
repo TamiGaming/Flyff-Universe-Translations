@@ -296,7 +296,7 @@ CHARACTER_INC_000771,Charlie,Charlie
 CHARACTER_INC_000772,[Guild House Manager] Lousiana,[Gestionnaire de Maison de Guilde] Lousiana
 CHARACTER_INC_000773,Santa,Père Noël
 CHARACTER_INC_100044,Diosa,Diosa
-CHARACTER_INC_100200,Kalgas Assault Manager,Responsable de l'Assaut de Klagas
+CHARACTER_INC_100200,Kalgas Assault Manager,Responsable de l'Assaut de Kalgas
 CHARACTER_INC_003200,[Personal House NPC] Casanova,[PNJ Personnel] Casanova
 CHARACTER_INC_003201,[Personal House NPC] Misun,[PNJ Personnel] Misun
 CHARACTER_INC_003202,[Personal House NPC] Punk,[PNJ Personnel] Punk
@@ -393,8 +393,8 @@ CHARACTER_INC_150015,[Eillun Guard] Merk,[Garde d'Eillun] Merk
 CHARACTER_INC_150016,[Captain] Baron,[Capitaine] Baron
 CHARACTER_INC_150017,Jarl,Jarl
 CHARACTER_INC_150018,[Elder] Ayr,[Elder] Ayr
-CHARACTER_INC_150019,[Elder] Traitus,[Elder] Melak
-CHARACTER_INC_150020,[Elder] Melak,[Elder] Traitus
+CHARACTER_INC_150019,[Elder] Traitus,[Elder] Traitus
+CHARACTER_INC_150020,[Elder] Melak,[Elder] Melak
 CHARACTER_INC_150021,[Elder] Silar,[Elder] Silar
 CHARACTER_INC_150022,[Elder] Ebron,[Elder] Ebron
 CHARACTER_INC_150023,[Elder] Luteon,[Elder] Luteon
@@ -420,7 +420,7 @@ CHARACTER_INC_150042,Taila,Taila
 CHARACTER_INC_150043,Weevs,Weevs
 CHARACTER_INC_150044,[Mysterious] ??? ,[Mysterious] ??? 
 CHARACTER_INC_150045,[Expedition] Beck,[Expédition] Beck
-CHARACTER_INC_150046,Asylum Guard,Guarde de l'asile d'Ankou
+CHARACTER_INC_150046,Asylum Guard,Garde de l'asile d'Ankou
 CHARACTER_INC_150047,Mysterious Adventurer,Aventurier mystérieux
 CHARACTER_INC_150048,Jarl (Dying),Jarl (Dying)
 CHARACTER_INC_150049,[PTS Manager] Mewdev,[PTS Manager] Mewdev

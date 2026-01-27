@@ -1,7 +1,7 @@
 ﻿#b#cff0000ff Basic Rules #nb#nc
-※ All buffs are removed when entering the Guild Siege map.
-※ Item trading is disabled in the Guild Siege map.
-※ Combat begins after the Standby Phase.
+※ All buffs are removed when entering the Guild Siege arena.
+※ Item trading is disabled in the Guild Siege arena.
+※ Combat begins after the Entry and Preparation phases.
 ※ The first 6 players in the lineup enter the Guild Siege combat area.
 ※ When a player is defeated, the next player in the lineup enters.
 ※ Defeated players are moved to the end of the lineup.

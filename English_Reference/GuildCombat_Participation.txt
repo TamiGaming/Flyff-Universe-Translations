@@ -7,9 +7,9 @@
   - The Guild Master or any Kingpin must participate.
   - Up to 10 guilds can participate. If more than 10 guilds apply, the guilds that paid the highest application fee are selected (fees are compared when the application period ends).
 ※ Schedule
-  - Lineup Registration (10 minutes): The Guild Master or any Kingpin may set and edit the lineup. Up to 15 guild members may participate. One participant must be designated as the defender.
-  - Standby Phase (7 minutes): Participating players may enter the Guild Siege map and wait.
-  - Combat Area Entry (3 minutes): The first 6 players from each participating guild are teleported into the Guild Siege combat area.
+  - Lineup Setup (10 minutes): The Guild Master or any Kingpin may set and edit the lineup. Up to 15 guild members may participate. One participant must be designated as the defender.
+  - Entry Phase (7 minutes): Participating players may enter the Guild Siege arena and wait.
+  - Preparation Phase (3 minutes): The first 6 players from each participating guild are teleported into the Guild Siege combat area.
   - Battle Phase (40 minutes): Combat begins and continues until the Guild Siege ends.
 ※ Notes
   - When more than 5 guilds participate, a large battlefield is used, and the Battle Phase lasts 55 minutes.

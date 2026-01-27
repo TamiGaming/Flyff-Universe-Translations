@@ -931,16 +931,16 @@ UI_GUILDCOMBAT_JOIN_MSG,Do you join the Guild Siege?
 UI_NETWORK_ERROR_TITLE,Network Error
 UI_NETWORK_ERROR_MSG,"A network error happened, please check your connection and login again."
 UI_GUILDCOMBAT_JOINWAR_TITLE,Resurrection Location
-UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st area.
-UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd area.
-UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd area.
-UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th area.
-UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th area.
-UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th area.
-UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th area.
-UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th area.
-UI_GUILDCOMBAT_JOINWAR_SELECT,Select the area you wish to enter.
-UI_GUILDCOMBAT_JOINWAR_MSG,"After %d, you enter %s."
+UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st zone.
+UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd zone.
+UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd zone.
+UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th zone.
+UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th zone.
+UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th zone.
+UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th zone.
+UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th zone.
+UI_GUILDCOMBAT_JOINWAR_SELECT,Select the zone you wish to enter.
+UI_GUILDCOMBAT_JOINWAR_MSG,"In %d seconds, you will enter zone %s."
 UI_GUILDCOMBAT_JOINWAR_RANDOM,Random
 UI_CHAT_ADMIN,[Admin] %s
 UI_GUILDCOMBAT_RATE,Current rank:
